@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="surname">Nom</string>
+    <string name="name">Prénom</string>
+    <string name="date">Date de naissance</string>
+    <string name="city">Ville de naissance</string>
+    <string name="validate">Valider</string>
+    <string name="reset">Remiser</string>
+    <string name="phone">Numéro de téléphone</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="count">Click count</string>
+</resources>
